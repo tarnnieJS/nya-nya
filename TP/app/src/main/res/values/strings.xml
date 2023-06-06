@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TP</string>
+    <string name="product">Product</string>
+    <string name="back"><![CDATA[< BACK]]></string>
+
+    <string name="facebook_app_id">267831409037918</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">8dec0db6e5ac8cb891b7b1826fa739a0</string>
+
+</resources>
